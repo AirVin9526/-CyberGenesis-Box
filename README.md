@@ -90,7 +90,9 @@ AR增强体验：利用AR技术将虚拟网络视图与现实环境结合，玩�
 
 项目开源地址：
 https://github.com/AirVin9526/-CyberGenesis-Box
-讨论群组：t.me/io_ojjl
+
+讨论群组：[t.me/io_ojjl](https://t.me/io_ojjl)
+
 ![image](https://github.com/user-attachments/assets/36ce2085-4f1b-42c3-adfe-0d42df0eaef5)
 
 加入我们：
